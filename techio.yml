@@ -1,4 +1,4 @@
-title: Custom Template
+title: Go (Golang) Mastery - From Zero to Hero
 plan:
 - title: Welcome
-  statement: markdowns/welcome.md
+  statement: markdowns/01-welcome.md
