@@ -2,3 +2,25 @@ title: Go (Golang) Mastery - From Zero to Hero
 plan:
 - title: Welcome
   statement: markdowns/01-welcome.md
+- title: Introduction
+  statement: markdowns/02-introduction.md
+- title: Hello World
+  statement: markdowns/03-hello-world.md
+- title: Data Types
+  statement: markdowns/04-datatypes.md
+- title: Int
+  statement: markdowns/05-int.md
+- title: Float
+  statement: markdowns/06-float.md
+- title: Strings
+  statement: markdowns/07-strings.md
+- title: Boolean
+  statement: markdowns/08-boolean.md
+- title: Array
+  statement: markdowns/09-array.md
+- title: Slice
+  statement: markdowns/10-slice.md
+- title: Struct
+  statement: markdowns/11-struct.md
+- title: Custom Types
+  statement: markdowns/12-custom-type.md

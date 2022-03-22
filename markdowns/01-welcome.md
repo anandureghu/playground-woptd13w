@@ -1,4 +1,4 @@
-# Welcome!
+# **Welcome!**
 
 > “Go will be the server language of the future.” — Tobias Lütke, Shopify
 
