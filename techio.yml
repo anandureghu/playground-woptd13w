@@ -24,3 +24,10 @@ plan:
   statement: markdowns/11-struct.md
 - title: Custom Types
   statement: markdowns/12-custom-type.md
+
+projects:
+  go:
+    root: /project
+    runner:
+      name: techio/golang-godep-runner
+      version: 1.1.0-go-1.8
