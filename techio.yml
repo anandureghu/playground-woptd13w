@@ -2,8 +2,8 @@ title: Go (Golang) Mastery - From Zero to Hero
 plan:
 - title: Welcome
   statement: markdowns/01-welcome.md
-- title: Introduction
-  statement: markdowns/02-introduction.md
+- title: Overview
+  statement: markdowns/02-overview.md
 - title: Hello World
   statement: markdowns/03-hello-world.md
 - title: Data Types
